@@ -1,5 +1,7 @@
 # Cadastro de Clientes - Refatorado
 
+Veja este projeto online: [Clique aqui para acessar](https://ricardo-dev-00.github.io/Cadastro-de-Clientes---Refatorado/)
+
 Este projeto é uma aplicação de **Cadastro de Clientes**, desenvolvida como parte do curso de **Desenvolvimento Front-End** da **EBAC**. O objetivo principal foi refatorar o código original para torná-lo mais modular, reutilizável e organizado, utilizando boas práticas de programação.
 
 ## 🛠️ Tecnologias Utilizadas
@@ -37,7 +39,6 @@ Exercício módulo 10/
 1. Clone este repositório para o seu computador:
    ```bash
    git clone https://github.com/Ricardo-dev-00/Cadastro-de-Clientes---Refatorado.git
-  
    ```
 2. Navegue até o diretório do projeto:
    ```bash
